@@ -54,11 +54,6 @@ It demonstrates **role-based access**, **CRUD operations**, **search & paginatio
 ---
 
 
----
-
-### 🔹 Created by
-www.linkedin.com/in/aaditya-jatav-2721a4327
-https://github.com/Aditya12119
 
 
 
